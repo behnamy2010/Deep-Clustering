@@ -25,11 +25,6 @@ Ensure you have the latest versions of the following libraries:
 - `scikit-learn` (for clustering algorithms like KMeans, DBSCAN)
 - `torch` and `torchvision` (for deep learning with PyTorch)
 
-Install them via:
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## Citation
